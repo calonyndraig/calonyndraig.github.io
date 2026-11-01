@@ -9,13 +9,13 @@
 body {
   font-family: Arial, sans-serif;
   line-height: 1.7;
-  color: #263445;
-  background: #f7f9fc;
+  color: #25272A;
+  background: #F4EFE7;
 }
 
 header {
-  background: #172b45;
-  color: white;
+  background: #123D35;
+  color: #F4EFE7;
   padding: 20px 8%;
 }
 
@@ -28,7 +28,7 @@ nav {
 }
 
 nav a {
-  color: white;
+  color: #F4EFE7;
   text-decoration: none;
   margin-left: 18px;
 }
@@ -36,7 +36,7 @@ nav a {
 .hero {
   text-align: center;
   padding: 110px 20px;
-  background: #e8eff7;
+  background: #F4EFE7;
 }
 
 .hero h1 {
@@ -45,15 +45,15 @@ nav a {
 }
 
 .hero h2 {
-  color: #52769b;
+  color: #243D70;
 }
 
 .button {
   display: inline-block;
   margin-top: 25px;
   padding: 12px 25px;
-  background: #172b45;
-  color: white;
+  background: #123D35;
+  color: #F4EFE7;
   text-decoration: none;
   border-radius: 6px;
 }
@@ -64,20 +64,20 @@ section:not(.hero) {
 
 section h2 {
   margin-bottom: 20px;
-  color: #172b45;
+  color: #243D70;
 }
 
 .project {
-  background: white;
+  background: #F4EFE7;
   padding: 25px;
   margin: 15px 0;
   border-radius: 8px;
-  box-shadow: 0 3px 12px #0000000d;
+  box-shadow: 0 3px 12px #D7C8B5;
 }
 
 footer {
-  background: #172b45;
-  color: white;
+  background: #123D35;
+  color: #F4EFE7;
   text-align: center;
   padding: 25px;
 }
