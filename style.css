@@ -8,11 +8,14 @@
 
 a {
   color: #654477; /* Replaces default blue with amethyst */
-  text-decoration: none; /* Removes the default underline */
+  text-decoration: underline;
+  text-decoration-color: #654477;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 4px;
 }
 
 body {
-  font-family: Arial, sans-serif;
+  font-family: Helvetica, sans-serif;
   line-height: 1.7;
   color: #123D35;
   background: #F4EFE7;
