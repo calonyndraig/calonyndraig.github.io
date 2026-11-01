@@ -6,6 +6,11 @@
   scroll-behavior: smooth;
 }
 
+a {
+  color: #654477; /* Replaces default blue with amethyst */
+  text-decoration: none; /* Removes the default underline */
+}
+
 body {
   font-family: Arial, sans-serif;
   line-height: 1.7;
