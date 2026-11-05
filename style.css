@@ -8,13 +8,12 @@
 
 @font-face {
     font-family: 'Apalu';
-    src: url('.assets/fonts/Apalu.ttf') format('ttf');
-    font-weight: 400;
+    src: url('.assets/fonts/Apalu.ttf') format('true-type');
+    font-weight: normal;
     font-style: normal;
-    font-display: swap;
 }
 
-.custom-font {
+.Apalu {
     font-family: 'Apalu', sans-serif;
 }
 
