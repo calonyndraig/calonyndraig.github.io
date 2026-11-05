@@ -31,12 +31,12 @@ body {
   font-family: Helvetica, sans-serif;
   line-height: 1.7;
   color: #123D35;
-  background: #F4EFE7;
+  background: #f8f6f3;
 }
 
 header {
   background: #123D35;
-  color: #F4EFE7;
+  color: #f8f6f3;
   padding: 20px 8%;
 
 }
@@ -50,7 +50,7 @@ nav {
 }
 
 nav a {
-  color: #F4EFE7;
+  color: #f8f6f3;
   text-decoration: none;
   margin-left: 18px;
 }
@@ -58,7 +58,7 @@ nav a {
 .hero {
   text-align: center;
   padding: 110px 20px;
-  background: #F4EFE7;
+  background: #f8f6f3;
 }
 
 .hero h1 {
@@ -75,7 +75,7 @@ nav a {
   margin-top: 25px;
   padding: 12px 25px;
   background: #123D35;
-  color: #F4EFE7;
+  color: #f8f6f3;
   text-decoration: none;
   border-radius: 6px;
 }
@@ -91,7 +91,7 @@ section h2 {
 }
 
 .project {
-  background: #F4EFE7;
+  background: #f8f6f3;
   padding: 25px;
   margin: 15px 0;
   border-radius: 8px;
@@ -100,7 +100,7 @@ section h2 {
 
 footer {
   background: #123D35;
-  color: #F4EFE7;
+  color: #f8f6f3;
   text-align: center;
   padding: 25px;
 }
