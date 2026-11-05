@@ -6,6 +6,18 @@
   scroll-behavior: smooth;
 }
 
+@font-face {
+    font-family: 'Apalu';
+    src: url('./assets/fonts/Apalu.ttf') format('ttf');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+.custom-font {
+    font-family: 'Apalu', sans-serif;
+}
+
 a {
   color: #654477; /* Replaces default blue with amethyst */
   text-decoration: underline;
