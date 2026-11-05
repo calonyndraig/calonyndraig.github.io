@@ -7,16 +7,16 @@
 }
 
 @font-face {
-    font-family: 'Apalu';
-    src: url('./assets/fonts/Apalu.ttf') format('truetype');
+    font-family: 'Euphorigenic';
+    src: url('./assets/fonts/Euphorigenic.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }
 
-.Apalu {
-    font-family: 'Apalu', sans-serif;
-    font-size: 36px;
-    line-height: 1.2;
+.Euphorigenic {
+    font-family: 'Euphorigenic', serif;
+    font-size: 48px;
+    line-height: 1.3;
 }
 
 a {
@@ -38,6 +38,7 @@ header {
   background: #123D35;
   color: #F4EFE7;
   padding: 20px 8%;
+
 }
 
 nav {
@@ -63,6 +64,7 @@ nav a {
 .hero h1 {
   font-size: 3rem;
   margin: 15px 0;
+  font-family: "Euphorigenic", sans-serif;
 }
 
 .hero h2 {
@@ -86,6 +88,7 @@ section:not(.hero) {
 section h2 {
   margin-bottom: 20px;
   color: #243D70;
+    font-family: "Euphorigenic", sans-serif;
 }
 
 .project {
