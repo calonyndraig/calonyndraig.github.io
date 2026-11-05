@@ -64,7 +64,6 @@ nav a {
 .hero h1 {
   font-size: 3rem;
   margin: 15px 0;
-  font-family: "Euphorigenic", sans-serif;
 }
 
 .hero h2 {
@@ -88,7 +87,7 @@ section:not(.hero) {
 section h2 {
   margin-bottom: 20px;
   color: #243D70;
-    font-family: "Euphorigenic", sans-serif;
+  
 }
 
 .project {
