@@ -4,5 +4,5 @@ Amethyst (accent) = #654477
 Garnet (accent) = #853D52
 Antique gold (highlight) = #C09A56
 Champagne (neutral) = #D7C8B5
-Ivory (main background) = #F4EFE7
+Ivory (main background) = #f8f6f3
 Soft charcoal (main text) = #25272A
