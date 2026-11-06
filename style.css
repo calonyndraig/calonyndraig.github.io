@@ -13,6 +13,11 @@
     font-style: normal;
 }
 
+summary {
+  cursor: pointer;
+  margin-bottom: 20px;
+}
+
 .Euphorigenic_header {
     font-family: 'Euphorigenic', serif;
     font-size: 48px;
@@ -28,7 +33,7 @@
 
 a {
   color: #654477; /* Replaces default blue with amethyst */
-  text-decoration: underline;
+  text-decoration: none;
   text-decoration-color: #654477;
   text-decoration-thickness: 2px;
   text-underline-offset: 4px;
@@ -113,7 +118,7 @@ section[id] {
 }
 
 section:not(.hero) {
-  padding: 70px 10%;
+  padding: 70px 15%;
 }
 
 section h2 {
@@ -168,7 +173,7 @@ footer {
   }
 
   .hero-image {
-    aspect-ratio: 4 / 3;
+    aspect-ratio: 4 / 5;
   }
 
   .hero h1 {
