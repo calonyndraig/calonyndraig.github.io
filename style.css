@@ -113,6 +113,16 @@ nav a {
   border-radius: 6px;
 }
 
+.downloadbutton {
+  display: inline-block;
+  margin-top: 25px;
+  padding: 12px 25px;
+  background: #654477;
+  color: #f8f6f3;
+  text-decoration: none;
+  border-radius: 6px;
+}
+
 section[id] {
   scroll-margin-top: 180px;
 }
